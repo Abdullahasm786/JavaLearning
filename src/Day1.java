@@ -76,7 +76,7 @@ class Day1{
         else{
             System.out.println("NOT year");
         }*/
-        //Grade 90-100 A,80-90 b,70-80 c,60-70 D,60-50 E
+        //Grade 90-100 A,80-90 b,70-80 c,60-70 D,60-50 E=00
         float avg;
         Scanner in=new Scanner(System.in);
         System.out.println("AVG=");
