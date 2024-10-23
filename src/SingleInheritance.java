@@ -1,9 +1,9 @@
-class Father{
+class Father1{
     public void house(){
         System.out.println("own a 3bhk house");
     }
 }
-class son extends Father{
+class son1 extends Father1{
     public void car()
     {
         System.out.println("own a Audi car");
