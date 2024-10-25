@@ -33,9 +33,7 @@ public class Hireracial {
         System.out.println(o1.rectangle_area());
         Sqr o2=new Sqr(3);
         System.out.println(o2.Sqr_area());
-        Cir o3=new Cir(5);
+        Cir o3=new Cir(5  );
         System.out.println(o3.cir_area());
-
-
     }
 }
