@@ -18,6 +18,15 @@ public class Mathoperation {
             System.out.println(Mathoperation.multiply(2.4,7.0));
             System.out.println(Mathoperation.multiply(20,30));
             System.out.println(Mathoperation.multiply(2.4,7.0));
+            System.out.println(Mathoperation.multiply(20,30));
+            System.out.println(Mathoperation.multiply(2.4,7.0));
+            System.out.println(Mathoperation.multiply(20,30));
+            System.out.println(Mathoperation.multiply(2.4,7.0));
+            System.out.println(Mathoperation.multiply(20,30));
+            System.out.println(Mathoperation.multiply(2.4,7.0));
+            System.out.println(Mathoperation.multiply(20,30));
+            System.out.println(Mathoperation.multiply(2.4,7.0));
+
 
         }
     }
